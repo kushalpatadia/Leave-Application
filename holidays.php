@@ -1,0 +1,84 @@
+<table class="table table-striped">
+    <thead>
+      <tr>
+        <th>no</th>
+        <th>Holiday</th>
+        <th>Date</th>
+        <th>Day</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>1</td>
+        <td>Makar Sankranti</td>
+        <td>01/14/2017</td>
+        <td>Saturday</td>
+      </tr>
+      <tr>
+        <td>2</td>
+        <td>Republic Day</td>
+        <td>01/26/2017</td>
+        <td>Thursday</td>
+      </tr>
+      <tr>
+        <td>3</td>
+        <td>Holi/Dhuleti</td>
+        <td>03/13/2017</td>
+        <td>Monday</td>
+      </tr>
+      <tr>
+        <td>4</td>
+        <td>Idul Fitr</td>
+        <td>06/25/2017</td>
+        <td>Sunday</td>
+      </tr>
+      <tr>
+        <td>5</td>
+        <td>Rakshabandhan</td>
+        <td>08/07/2017</td>
+        <td>Monday</td>
+      </tr>
+      <tr>
+        <td>6</td>
+        <td>Janmashtami</td>
+        <td>08/14/2017</td>
+        <td>Monday</td>
+      </tr>
+      <tr>
+        <td>7</td>
+        <td>Independence Day</td>
+        <td>08/15/2017</td>
+        <td>Tuesday</td>
+      </tr>
+      <tr>
+        <td>8</td>
+        <td>Dussehra</td>
+        <td>09/30/2017</td>
+        <td>Saturday</td>
+      </tr>
+      <tr>
+        <td>9</td>
+        <td>Mahatma Gandhi Jayanti</td>
+        <td>10/02/2017</td>
+        <td>Monday</td>
+      </tr>
+      <tr>
+        <td>10</td>
+        <td>Diwali</td>
+        <td>10/19/2017</td>
+        <td>Thursday</td>
+      </tr>
+      <tr>
+        <td>11</td>
+        <td>Hindu Calendar New Year</td>
+        <td>10/20/2017</td>
+        <td>Friday</td>
+      </tr>
+      <tr>
+        <td>12</td>
+        <td>Christmas</td>
+        <td>12/25/2017</td>
+        <td>Monday</td>
+      </tr>
+    </tbody>
+  </table>
